@@ -10,8 +10,8 @@ void main() {
   runApp(const MyApp());
 
   doWhenWindowReady(() {
-    appWindow.minSize = const Size(1000, 600); // Minimum pencere boyutu
-    appWindow.size = const Size(1000, 600); // Başlangıç boyutu
+    appWindow.minSize = const Size(1000, 720); // Minimum pencere boyutu
+    appWindow.size = const Size(1024, 720); // Başlangıç boyutu
     appWindow.alignment = Alignment.center;
     appWindow.show();
   });

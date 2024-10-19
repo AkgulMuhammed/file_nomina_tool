@@ -20,6 +20,7 @@ dependencies:
   rive: ^0.13.14
   freezed_annotation: ^2.4.4
   flutter_bloc: ^8.1.6
+  url_launcher: ^6.3.1
 
 dev_dependencies:
   flutter_test:
